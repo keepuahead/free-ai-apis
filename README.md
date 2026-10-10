@@ -74,6 +74,7 @@ No credit card required. Build AI apps for $0.
 | [SambaNova](https://sambanova.ai) | Fast inference platform | Free tier available | `apiKey` | [Docs](https://docs.sambanova.ai) |
 | [Novita AI](https://novita.ai) | LLM and image APIs | $0.50 free credits | `apiKey` | [Docs](https://novita.ai/docs) |
 | [Hyperbolic](https://hyperbolic.xyz) | Open-source model hosting | Free tier available | `apiKey` | [Docs](https://docs.hyperbolic.xyz) |
+| [FreeAIapikey](https://freeaiapikey.com) | OpenAI-compatible gateway with 100K free tokens/day | 100K tokens/day, GPT-5.5/6, Claude Opus/Sonnet | `apiKey` | [Docs](https://freeaiapikey.com/docs) |
 
 <div align="right"><a href="#contents">Back to top</a></div>
 
